@@ -1264,6 +1264,16 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-10 .u-btn-1 {
+    font-size: 1.25rem;
+    margin-top: 69px;
+  }
+
+  .u-section-10 .u-btn-2 {
+    font-size: 1.25rem;
+    margin-top: 15px;
+  }
+
   .u-section-10 .u-text-1 {
     width: 340px;
   }
